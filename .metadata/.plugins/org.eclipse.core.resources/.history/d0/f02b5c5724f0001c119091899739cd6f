@@ -1,0 +1,10 @@
+package entities;
+
+public class Aulao015_AreaTrianguloComPOO {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
