@@ -39,8 +39,6 @@ public class Aula014_AreaTrianguloSemPOO {
 		}
 		else {
 			System.out.println("Larger area : Y");
-			System.out.println("Larger area : Y");
-			System.out.println("Larger area : Y");
 		}
 		sc.close();
 
